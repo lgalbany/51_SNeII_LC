@@ -1,0 +1,12 @@
+Name: sn1986l
+Type: SNIIP
+zhel: 0.00435
+Redshift_error: 0.00001
+Zcmb: 0.00435
+Ra: 64.3801
+Dec: -62.7853
+Host: 	NGC 1559 
+Host_type: SB(s)cd
+E(B-V)_MW: 0.030
+Distance(m-M): 30.72
+Distance_error(m-M): 0.34

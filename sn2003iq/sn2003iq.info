@@ -1,0 +1,12 @@
+Name: sn2003iq
+Type: SNIIP
+zhel: 0.00825
+Redshift_error: 0.00001
+zcmb: 0.00734
+Ra: 29.833167
+Dec: 18.995028
+Host: NGC 0772
+Host_type: SA(s)b
+E(B-V)_MW: 0.073
+Distance(m-M): 32.60
+Distance_error(m-M): 0.18

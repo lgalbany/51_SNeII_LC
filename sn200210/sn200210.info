@@ -1,0 +1,12 @@
+Name: sn200210
+Type: SNIIP
+zhel: 0.05140
+Redshift_error: 0.00008
+zcmb: 0.05031
+Ra: 15.320064
+Dec: -1.097758
+Host: MCG +00-03-054 
+Host_type: Sbc
+E(B-V)_MW: 0.036
+Distance(m-M): 36.82
+Distance_error(m-M): 0.03

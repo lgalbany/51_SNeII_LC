@@ -1,0 +1,12 @@
+Name: sn2003cv
+Type: SNIIpec
+zhel: 0.02888
+Redshift_error: 0.00001
+zcmb: 0.02999
+Ra: 169.451500
+Dec: 19.152361
+Host: SDSS J111748.37+190905.3
+Host_type: -
+E(B-V)_MW: 0.021
+Distance(m-M): 35.66
+Distance_error(m-M): 0.07

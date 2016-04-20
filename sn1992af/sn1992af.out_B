@@ -1,0 +1,25 @@
+SN: sn1992af
+Filter: B
+Npoints: 21
+MJD      Mag    DMag  magsys  Telescope  Detector   Source
+48805.31 17.756 0.017 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48807.12 17.842 0.026 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48809.40 17.867 0.017 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48813.35 17.991 0.025 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48817.17 18.147 0.098 Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G 
+48818.17 18.042 0.052 Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G 
+48831.34 18.346 0.017 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48842.10 18.631 0.043 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48843.15 18.658 0.044 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48845.03 18.745 0.048 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48846.16 18.785 0.042 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48847.09 18.754 0.039 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48848.13 18.882 0.038 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48849.20 18.807 0.044 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48871.08 21.010 0.145 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48872.07 20.562 0.323 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48885.19 21.149 0.071 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48891.07 21.172 0.072 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48905.10 21.293 0.235 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48908.09 21.312 0.166 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48919.11 21.455 0.075 Landolt CTIO-4m    --         Galbany et al. 2016: 2016AJ....151...33G 

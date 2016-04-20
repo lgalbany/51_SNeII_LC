@@ -1,0 +1,12 @@
+Name: sn2003bg
+Type: SNIIP
+zhel: 0.00456
+Redshift_error: 0.00001
+zcmb: 0.00436
+Ra: 62.7476171
+Dec: -31.4139558
+Host: ESO 420- G 009
+Host_type: SB(s)c
+E(B-V)_MW: 0.022
+Distance(m-M): 33.18
+Distance_error(m-M): 0.23

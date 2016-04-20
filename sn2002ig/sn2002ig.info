@@ -1,0 +1,12 @@
+Name: sn2002ig
+Type: SNIIP
+zhel: 0.07700
+Redshift_error: 0.00001
+zcmb: 0.07600
+Ra: 24.153000
+Dec: 0.92377800
+Host: SDSS J013637.22+005524.9 
+Host_type: -
+E(B-V)_MW: 0.034
+Distance(m-M): 37.75
+Distance_error(m-M): 0.15

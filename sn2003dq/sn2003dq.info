@@ -1,0 +1,12 @@
+Name: sn2003dq
+Type: SNIIP
+zhel: 0.04600
+Redshift_error: 0.00001
+zcmb: 0.04714
+Ra: 166.189333
+Dec: 15.447056
+Host: SDSS J110445.44+152650.4
+Host_type: -
+E(B-V)_MW: 0.019
+Distance(m-M): 36.67
+Distance_error(m-M): 0.15

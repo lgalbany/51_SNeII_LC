@@ -1,0 +1,12 @@
+Name: sn1991al
+Type: SNIIP
+zhel: 0.01525
+Redshift_error: 0.00001
+Zcmb: 0.01494
+Ra:  295.600277
+Dec:  -55.106520
+Host: 2MASX J19422191-5506275
+Host_type: S
+E(B-V)_MW: 0.051
+Distance(m-M): 34.12
+Distance_error(m-M): 0.14

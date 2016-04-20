@@ -1,0 +1,6 @@
+SN: sn2003cx
+Filter: R
+Npoints: 2
+MJD      Mag     DMag   magsys  Telescope  Detector   Source
+52845.1  20.820  0.043  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52870.1  21.152  0.106  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G

@@ -1,0 +1,15 @@
+SN: sn2003cn
+Filter: V
+Npoints: 11
+MJD      Mag     DMag   magsys  Telescope  Detector   Source
+52733.4  18.280  0.012  Landolt LCO-2.5m    --         Galbany et al. 2016: 2016AJ....151...33G
+52736.2  18.365  0.032  Landolt LCO-2.5m    --         Galbany et al. 2016: 2016AJ....151...33G
+52739.3  18.445  0.014  Landolt LCO-Clay    --         Galbany et al. 2016: 2016AJ....151...33G
+52744.2  18.503  0.026  Landolt CTIO-0.9m   --         Galbany et al. 2016: 2016AJ....151...33G
+52754.1  18.642  0.009  Landolt LCO-1m      --         Galbany et al. 2016: 2016AJ....151...33G
+52760.2  18.728  0.015  Landolt LCO-1m      --         Galbany et al. 2016: 2016AJ....151...33G
+52764.2  18.767  0.014  Landolt LCO-Clay    --         Galbany et al. 2016: 2016AJ....151...33G
+52777.2  18.972  0.022  Landolt LCO-1m      --         Galbany et al. 2016: 2016AJ....151...33G
+52782.2  19.057  0.014  Landolt LCO-1m      --         Galbany et al. 2016: 2016AJ....151...33G
+52797.2  19.805  0.034  Landolt LCO-2.5m    --         Galbany et al. 2016: 2016AJ....151...33G
+52815.1  22.883  0.144  Landolt LCO-2.5m    --         Galbany et al. 2016: 2016AJ....151...33G

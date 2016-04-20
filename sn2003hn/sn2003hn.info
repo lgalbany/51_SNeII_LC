@@ -1,0 +1,12 @@
+Name: sn2003hn
+Type: SNIIP
+zhel: 0.00390
+Redshift_error: 0.00001
+zcmb: 0.00368
+Ra:  56.15042
+Dec:  -44.63028
+Host_name: NGC 1448
+Host_type: SAcd?
+E(B-V)_MW: 0.014
+Distance(m-M): 31.13
+Distance_error(m-M): 0.25

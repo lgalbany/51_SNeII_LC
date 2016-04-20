@@ -1,0 +1,12 @@
+Name: sn2003ho
+Type: SNIIP
+zhel: 0.01438
+Redshift_error: 0.00003
+zcmb: 0.01379
+Ra: 316.627333
+Dec: -48.124972
+Host: ESO 235- G 058
+Host_type: SB(rs)d
+E(B-V)_MW: 0.039
+Distance(m-M): 33.95
+Distance_error(m-M): 0.04 

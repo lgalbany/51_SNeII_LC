@@ -1,0 +1,35 @@
+SN: sn1986l
+Filter: V
+Npoints: 31
+MJD      Mag      DMag   magsys   Telescope  Detector   Source
+46711.9  14.013   0.017  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46711.9  13.940   0.017  Landolt  CTIO-4m    --         Galbany et al. 2016: 2016AJ....151...33G 
+46713.8  13.756   0.017  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46714.8  13.711   0.017  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46715.7  13.683   0.017  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46716.8  13.680   0.017  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46728.8  13.912   0.017  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46729.9  13.940   0.017  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46731.9  14.055   0.017  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46734.7  14.139   0.017  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46735.7  14.141   0.017  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46736.9  14.052   0.017  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46737.9  14.188   0.017  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46739.8  14.280   0.017  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46741.8  14.397   0.017  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46743.8  14.310   0.017  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46747.7  14.438   0.017  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46749.8  14.482   0.017  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46753.7  14.492   0.017  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46755.7  14.561   0.017  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46769.8  14.681   0.018  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46780.8  14.869   0.018  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46783.7  14.854   0.018  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46787.7  14.910   0.018  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46795.8  15.052   0.018  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46806.7  15.403   0.018  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46810.6  15.519   0.018  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46813.6  15.876   0.018  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46820.7  16.498   0.018  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+46854.5  17.735   0.034  Landolt  CTIO-4m    --         Galbany et al. 2016: 2016AJ....151...33G 
+46863.6  18.156   0.034  Landolt  CTIO-4m    --         Galbany et al. 2016: 2016AJ....151...33G 

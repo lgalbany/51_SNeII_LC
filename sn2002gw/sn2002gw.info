@@ -1,0 +1,12 @@
+Name: sn2002gw
+Type: SNIIP
+zhel: 0.01028
+Redshift_error: 0.00002
+zcmb: 0.00960
+Ra: 36.262375
+Dec: -24.797389
+Host: NGC 0922
+Host_type: SB(s)cd pec
+E(B-V)_MW: 0.020
+Distance(m-M): 33.42
+Distance_error(m-M): 0.37

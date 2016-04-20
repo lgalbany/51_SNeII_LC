@@ -1,0 +1,12 @@
+Name: sn2003ip
+Type: SNIIP
+zhel: 0.01801
+Redshift_error: 0.00001
+zcmb: 0.01685
+Ra: 8.319833
+Dec: 7.905417
+Host: UGC 00327
+Host_type: Sbc
+E(B-V)_MW: 0.066
+Distance(m-M): 34.39
+Distance_error(m-M): 0.01

@@ -1,0 +1,12 @@
+Name: sn2003eg
+Type: SNIIP
+zhel: 0.02500
+Redshift_error: 0.00001
+zcmb: 0.02612
+Ra: 192.743042
+Dec: -14.33639
+Host: NGC 4727
+Host_type: SAB(r)bc pec?
+E(B-V)_MW: 0.053
+Distance(m-M): 35.36
+Distance_error(m-M): 0.15
